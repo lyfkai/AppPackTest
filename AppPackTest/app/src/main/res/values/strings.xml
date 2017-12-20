@@ -1,0 +1,7 @@
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation"
+    >
+    <string name="app_name">多渠道打包</string>
+
+</resources>
